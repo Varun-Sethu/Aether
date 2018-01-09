@@ -1,0 +1,23 @@
+# Hanyuan can u implement this...
+
+let IDENTIFIER be i
+let TYPE be t
+let func be f
+let statement be St
+
+# i1 = func name
+# i2 = params
+
+Terminals: {f, i1, i2, ,, :, t, f, St, (, )}
+Non-Terminals: {S, E}
+Start-Symbol: S
+Productions:
+ f → i1
+ i1 → (
+ ( → )
+ ( → T
+ T → i2
+ i2 → ,
+ i2 → )
+ ) → :
+

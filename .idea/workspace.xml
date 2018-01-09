@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Aether" targetName="Aether" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-cygin" CONFIG_NAME="Debug" TOOLCHAIN_NAME="cygin" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daadf72e-efc9-4340-aa02-b3c7ca107b6a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug-cygin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-cygin" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Function.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Stargazer/Grammars/Function.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Automata.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Common/Automata/Automata.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="632">
+              <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+              <folding>
+                <element signature="e#297#309#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.hpp</find>
+      <find>refcount++</find>
+      <find>new</find>
+      <find>header</find>
+      <find>indivi</find>
+      <find>_blocks</find>
+      <find>Type</find>
+      <find>virtual</find>
+      <find>= 0;</find>
+      <find>=</find>
+      <find>this</find>
+      <find>i</find>
+      <find>string</find>
+      <find>toStrin</find>
+      <find>class</find>
+      <find>msg</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/andromeda/GCPointer.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/MemoryManager.h" />
+        <option value="$PROJECT_DIR$/src/common/Stack.h" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/common/utils/Padding.h" />
+        <option value="$PROJECT_DIR$/tests/AllocationTest.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Allocator.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/StackAllocator.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/LinearAllocator.h" />
+        <option value="$PROJECT_DIR$/src/README.md" />
+        <option value="$PROJECT_DIR$/src/andromeda/Memory/PoolAllocator.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Memory/LinearAllocator.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Memory/Allocator.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Memory/src/LinearAllocator.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Memory/src/StackAllocator.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Memory/StackAllocator.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/src/Int.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/Int.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/Type.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/Double.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/src/Double.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Math/Math.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Math/src/Math.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/String.h" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/src/String.cpp" />
+        <option value="$PROJECT_DIR$/tests/test1.ae" />
+        <option value="$PROJECT_DIR$/src/stargazer/Expression.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/AST.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/src/AST.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/Array.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/src/Array.cpp" />
+        <option value="$PROJECT_DIR$/src/andromeda/Types/Array.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Token.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Token/KeywordToken/KeywordToken.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Token/Includer.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Token/Token.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Expression/Expression.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/ParseTree/ParseTree.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Token/SignToken/SignToken.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Token/TypeToken/TypeToken.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Token/ValueToken/ValueToken.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/Token/CompilerToken/CompilerToken.h" />
+        <option value="$PROJECT_DIR$/src/stargazer/ParseTree/ParseTree.cpp" />
+        <option value="$PROJECT_DIR$/Aether/src/Aether/Common/Util/Util.h" />
+        <option value="$PROJECT_DIR$/Aether/src/Aether/Common/Util/Macros.h" />
+        <option value="$PROJECT_DIR$/Aether/src/Aether/Common/Util/Options.h" />
+        <option value="$PROJECT_DIR$/Aether/src/Aether/Common/Errors/Errors.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Aether/src/Aether/Stargazer/Lexer/Token.h" />
+        <option value="$PROJECT_DIR$/Aether/src/Aether/Common/Automata/Automata.h" />
+        <option value="$PROJECT_DIR$/Aether/src/Aether/Stargazer/Grammars/Function.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="469" />
+    <option name="y" value="-28" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Aether" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aether" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aether" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aether" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aether" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aether" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="Automata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aether" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Aether" type="462c0819:PsiDirectoryNode" />
+              <item name="Stargazer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.github.johnthagen.cppcheck.Configuration" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/varun/Desktop/Aether/src/andromeda/Types/src/Int.cpp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scholled" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\varun\Desktop\Aether\src\stargazer\Token" />
+      <recent name="C:\Users\varun\Desktop\Aether\src\andromeda\Types\src" />
+      <recent name="C:\Users\varun\Desktop\Aether\src\andromeda\Memory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Aether" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aether" TARGET_NAME="Aether" CONFIG_NAME="Debug-cygin" RUN_TARGET_PROJECT_NAME="Aether" RUN_TARGET_NAME="Aether">
+      <envs />
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug-cygin" RUN_TARGET_PROJECT_NAME="Aether" RUN_TARGET_NAME="Aether" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Aether" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daadf72e-efc9-4340-aa02-b3c7ca107b6a" name="Default" comment="" />
+      <created>1512127193213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512127193213</updated>
+      <workItem from="1512127197493" duration="34826000" />
+      <workItem from="1512337238038" duration="6416000" />
+      <workItem from="1512416911676" duration="24865000" />
+      <workItem from="1512503025214" duration="12297000" />
+      <workItem from="1512617540257" duration="5220000" />
+      <workItem from="1512682425290" duration="7051000" />
+      <workItem from="1512699045752" duration="6274000" />
+      <workItem from="1512958069656" duration="855000" />
+      <workItem from="1512991363634" duration="43000" />
+      <workItem from="1513134277711" duration="2344000" />
+      <workItem from="1514447964857" duration="350000" />
+      <workItem from="1514448345782" duration="798000" />
+      <workItem from="1514449481305" duration="57000" />
+      <workItem from="1514494445248" duration="61000" />
+      <workItem from="1514494527364" duration="56000" />
+      <workItem from="1514494612546" duration="22000" />
+      <workItem from="1514494656871" duration="34000" />
+      <workItem from="1514494716470" duration="2326000" />
+      <workItem from="1514502428317" duration="4000" />
+      <workItem from="1514539191208" duration="959000" />
+      <workItem from="1514542947728" duration="1043000" />
+      <workItem from="1514854885734" duration="2532000" />
+      <workItem from="1514857451157" duration="1916000" />
+      <workItem from="1514859400410" duration="7358000" />
+      <workItem from="1514962036618" duration="675000" />
+      <workItem from="1514964089739" duration="2058000" />
+      <workItem from="1515201374140" duration="1260000" />
+      <workItem from="1515203770673" duration="15226000" />
+      <workItem from="1515297156758" duration="4872000" />
+      <workItem from="1515315640162" duration="6896000" />
+      <workItem from="1515407981852" duration="218000" />
+      <workItem from="1515455745486" duration="12000" />
+      <workItem from="1515488027165" duration="6475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="155399000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="2278" height="1466" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32402483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35799858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840028" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292402" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug-cygin/Aether.cbp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Memory/PoolAllocator.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Memory/src/LinearAllocator.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Memory/src/StackAllocator.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Memory/StackAllocator.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/src/Int.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/Int.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/src/Double.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Math/Math.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Math/src/Math.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/String.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/src/String.cpp" />
+    <entry file="file://$PROJECT_DIR$/tests/test1.ae">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/Double.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/Type.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/src/Array.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Types/Array.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Expression.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Memory/LinearAllocator.h" />
+    <entry file="file://$PROJECT_DIR$/src/andromeda/Memory/Allocator.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Expression/Expression.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/AST.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/src/AST.cpp" />
+    <entry file="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/6.4.0/include/stddef.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4907">
+          <caret line="402" column="19" lean-forward="true" selection-start-line="402" selection-start-column="19" selection-end-line="402" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Token/Includer.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Expression/Expression.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/ParseTree/ParseTree.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Token/KeywordToken/KeywordToken.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Token/SignToken/SignToken.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Token/TypeToken/TypeToken.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Token/ValueToken/ValueToken.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/ParseTree/ParseTree.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Token/CompilerToken/CompilerToken.h" />
+    <entry file="file://$PROJECT_DIR$/src/stargazer/Token/Token.h" />
+    <entry file="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/6.4.0/include/c++/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="2971" column="6" lean-forward="false" selection-start-line="2971" selection-start-column="6" selection-end-line="2971" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Common/Util/Macros.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Common/Util/Options.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.CLion2017.3/system/cygwin_cmake/share/cmake-3.9.4/Modules/FindBoost.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="1586" column="0" lean-forward="false" selection-start-line="1586" selection-start-column="0" selection-end-line="1586" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/libs/boost/boost/variant.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Stargazer/Lexer/Lexer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Stargazer/Lexer/Token.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1057">
+          <caret line="131" column="109" lean-forward="false" selection-start-line="131" selection-start-column="109" selection-end-line="131" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Common/Errors/Errors.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <element signature="e#91#108#0" expanded="false" />
+            <element signature="e#899#926#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Common/Errors/Errors.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/AllocationTest.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/description">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HEAD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Stargazer/Grammars/Function.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aether/src/Aether/Common/Automata/Automata.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="33" column="34" lean-forward="true" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <element signature="e#297#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

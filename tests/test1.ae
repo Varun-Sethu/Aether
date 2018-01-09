@@ -1,0 +1,44 @@
+import "file.ae"
+
+# This is a comment
+
+
+# This is some inline c++
+__cpp__(
+
+   int test(int x) {
+        return x;
+   }
+
+)
+
+
+// Functions
+func testFunc() -> string:
+    return "Hello there"
+
+
+func helloThereFunc(int x, int y) -> int:
+    return x * y
+
+
+func main():
+    # Calling inline c++ functions
+    print(test(72))
+
+    # integers
+    Int x = 3
+    String y = "hello"
+
+    # Kinda like rust
+    print("{}", testFunc())
+
+
+    Ptr<String> pointer = y.ref()
+    print("Value: {}", pointer.deref())
+
+
+    # Putting stuff on the heap
+    Allocator allocator = new Allocator(1000)
+    Ptr<int> x = allocator.malloc(100)
+    allocator.free(x)
